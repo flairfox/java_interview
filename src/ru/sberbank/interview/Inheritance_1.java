@@ -14,13 +14,10 @@ public class Inheritance_1 {
         }
     }
 
-    ;
-
     private static class Class1 extends Class0 {
         public static void test() {
             System.out.println("Class1::test()");
         }
     }
 
-    ;
 }
